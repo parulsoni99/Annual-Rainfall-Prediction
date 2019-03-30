@@ -1,4 +1,4 @@
-# Annual-Rainfall-Prediction
+# Annual-Average-Rainfall-Prediction
 
 The aim of this project is to create a model to predict average annual rainfall of a place in the coming years using data of previous years.
 
