@@ -1,4 +1,4 @@
-# Annual Rainfall Prediction using Auto Regressive Integrated Moving Average Model (ARIMA)
+# Annual Rainfall Prediction using Auto Regressive Integrated Moving Average Model (ARIMA) for Time Series Analysis 
 
 install.packages("xlsx")       #package to read data from excel sheet
 
